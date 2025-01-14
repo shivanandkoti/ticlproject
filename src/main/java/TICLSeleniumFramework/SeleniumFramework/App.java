@@ -5,8 +5,9 @@ package TICLSeleniumFramework.SeleniumFramework;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("My World!");
 
         System.out.println("Testing merge confict");
+        System.out.println("My World!");
     }
 }
